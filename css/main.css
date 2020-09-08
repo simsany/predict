@@ -1,16 +1,20 @@
-th{
-	position:fixed;
+#top{
 	
+	
+	position: sticky;
+  top: 0;
+	
+}
+#bottom{
 	
 	
 	
 }
 
-
 tr:nth-child(even) {
     background: white;
   }
-  tr:hover{
+#bottom tr:hover{
   background-color:#DCDCDC
   }
   
